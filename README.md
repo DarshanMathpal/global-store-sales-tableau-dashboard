@@ -1,5 +1,4 @@
 # Global Store Sales Dashboard
-<img width="1440" height="900" alt="Screenshot 2026-04-26 at 3 53 36 PM" src="https://github.com/user-attachments/assets/c3495619-1d20-4343-9973-cb99c0f8375c" />
 
 ## Project Overview
 
@@ -50,6 +49,11 @@ Key fields included:
 ## Live Dashboard
 
 https://public.tableau.com/views/GlobalStoreSalesDashboard_17771986605140/GlobalStoreDashboard?:language=en-US&:sid=&:redirect=auth&publish=yes&showOnboarding=true&:display_count=n&:origin=viz_share_link
+
+## Dashboard Preview
+
+<img width="1410" height="832" alt="Screenshot 2026-04-26 at 4 02 14 PM" src="https://github.com/user-attachments/assets/7c9ae71f-447e-4df3-a5cd-7824ac24a8f0" />
+
 
 ## Author
 
