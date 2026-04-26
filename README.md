@@ -1,4 +1,5 @@
 # Global Store Sales Dashboard
+<img width="1440" height="900" alt="Screenshot 2026-04-26 at 3 53 36 PM" src="https://github.com/user-attachments/assets/c3495619-1d20-4343-9973-cb99c0f8375c" />
 
 ## Project Overview
 
