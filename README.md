@@ -1,5 +1,6 @@
 # Global Store Sales Dashboard
 
+---
 ## Project Overview
 
 An interactive Tableau dashboard built to analyze global retail sales performance across countries, products, discounts, and profitability.
